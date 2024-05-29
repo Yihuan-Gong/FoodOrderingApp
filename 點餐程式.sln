@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "點餐程式", "點餐程式\點餐程式.csproj", "{832C9031-CB82-420C-84D2-8C37810D0E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "點餐程式_v2", "點餐程式_v2\點餐程式_v2.csproj", "{5328E6B8-3DB5-4446-A221-9D6A41F40DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{832C9031-CB82-420C-84D2-8C37810D0E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832C9031-CB82-420C-84D2-8C37810D0E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832C9031-CB82-420C-84D2-8C37810D0E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832C9031-CB82-420C-84D2-8C37810D0E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5328E6B8-3DB5-4446-A221-9D6A41F40DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5328E6B8-3DB5-4446-A221-9D6A41F40DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5328E6B8-3DB5-4446-A221-9D6A41F40DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5328E6B8-3DB5-4446-A221-9D6A41F40DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A420AF95-0322-4D59-9A14-DFD52CF238BB}
+	EndGlobalSection
+EndGlobal
