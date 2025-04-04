@@ -1,2 +1,3 @@
-## 軟體架構圖
-![image](https://github.com/user-attachments/assets/7d05a625-d22f-4779-b37a-e29bfca7f75f)
+## 軟體架構
+![image](https://github.com/user-attachments/assets/a6f7c536-a9cc-4acc-998c-bae64d545dfa)
+
